@@ -1,8 +1,8 @@
 # Hi, I'm Ahmed Atrees.
 
-**Principal Software Engineer | Technical Consultant | System Architect**
+**Technical Lead | Software Architect | .NET & Scalable Systems**
 
-I design and guide mission-critical systems that run at national scale. With 20+ years of experience, I specialize in transforming complex business requirements—specifically in **Digital Media, Government, and Enterprise CMS**—into resilient, high-performance software architectures.
+Building high-performance digital platforms, CMS systems, and enterprise web solutions.
 
 > *I don't just write code; I build the pipelines, standards, and teams that ship it.*
 
