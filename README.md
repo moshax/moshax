@@ -1,51 +1,111 @@
-# Hi, I'm Ahmed Atrees.
 
-**Technical Lead | Software Architect | .NET & Scalable Systems**
+# Ahmed Atrees
 
-Building high-performance digital platforms, CMS systems, and enterprise web solutions.
+**Technical Lead | Software Architect | Digital Platforms & Scalable Systems**
 
-> *I don't just write code; I build the pipelines, standards, and teams that ship it.*
+Designing and leading the development of high-performance digital platforms, CMS solutions, and enterprise web systems.
 
----
+----------
 
-### 🏛 Architectural Focus
-I focus on the "Day 2" problems of software: **Scalability, Observability, and Maintainability.**
+## 👨‍💻 About Me
 
-*   **High-Scale Content Platforms:** Architected digital publishing workflows for Egypt's largest press institutions (Al-Ahram, Dar El-Helal).
-*   **Enterprise Modernization:** Migrating legacy monolithic ERP/CMS systems to decoupled, service-oriented architectures using **.NET** and **Laravel**.
-*   **AI Integration:** Engineering practical RAG (Retrieval-Augmented Generation) pipelines to assist editorial teams with SEO, translation, and content generation.
+I’m a Technical Lead with 12+ years of experience building and scaling digital platforms, particularly in publishing, CMS, and enterprise environments.
 
----
+My work spans full-stack development, system architecture, performance optimization, and engineering leadership — ensuring systems are not only functional, but scalable, maintainable, and aligned with business goals.
 
-### 🛠 The Tech Stack
-My toolbox focuses on production stability and developer experience (DX).
+----------
 
-| Domain | Technologies & Patterns |
-| :--- | :--- |
-| **Backend Core** | .NET Core (C#), Laravel (PHP), Entity Framework, Clean Architecture |
-| **Data & Caching** | SQL Server, MySQL, Redis (High-availability caching strategies) |
-| **Infrastructure** | CI/CD Pipelines, Docker, IIS/Linux Tuning, CDN Optimization |
-| **System Design** | Event-Driven Architecture, Micro-services (where pragmatic), DDD |
-| **Leadership** | Agile/Scrum Coaching, Technical Hiring, Team Mentorship |
+## 🚀 What I Do
 
----
+-   Architect end-to-end digital platforms (CMS, publishing, enterprise systems)
+    
+-   Lead engineering teams and enforce high development standards
+    
+-   Design scalable and maintainable system architectures
+    
+-   Optimize performance, stability, and user experience
+    
+-   Bridge business requirements with technical execution
+    
 
-### 📖 Engineering Philosophy
-*   **Pragmatism over Hype:** I choose boring technology for critical infrastructure. Innovation belongs in the product features, not the database layer.
-*   **Performance is a Feature:** On national news platforms, milliseconds translate to readership. I prioritize database tuning, aggressive caching, and async job processing.
-*   **Developer Enablement:** A Principal Engineer's job is to unblock the team. I invest heavily in CI/CD automation, standardized logging, and documentation.
+----------
 
----
+## 🏗️ Current Focus
 
-### 💼 Selected Impact
-*   **Al-Ahram Gate & Ahram Online:** Led the technical vision for one of the Middle East's highest-traffic news portals, ensuring uptime during peak national events.
-*   **Government Digital Transformation:** Consulted for the National Press Authority to modernize IT infrastructure and workflow systems across multiple press institutions.
-*   **Administrative Control Systems:** Designed secure, auditable workflow systems for sensitive government administrative controls.
+-   Leading development of **Bernamji CMS & Lab Management Platform**
+    
+-   Technical consulting for **National Press Authority digital platforms**
+    
+-   Driving system improvements in performance, scalability, and architecture
+    
 
----
+----------
 
-### 🌐 Connect & Consult
-I am always open to discussing high-scale architecture, legacy migration strategies, and technical leadership.
+## 🧠 Engineering Approach
 
-*   [**LinkedIn**](https://www.linkedin.com/in/ahmed-atrees/)
-*   **Focus:** Architecture Reviews, Technical Due Diligence, Scalability Consulting
+-   Architecture-first thinking
+    
+-   Systems built for scale and longevity
+    
+-   Strong emphasis on code quality and team discipline
+    
+-   Continuous improvement in delivery processes
+    
+
+----------
+
+## ⚙️ Technical Scope
+
+-   Backend & API Design (multiple stacks)
+    
+-   Frontend development and UX alignment
+    
+-   CMS & Digital Publishing Platforms
+    
+-   System Architecture (modular, microservices when needed)
+    
+-   CI/CD, deployment pipelines, and system operations
+    
+-   Performance optimization and SEO-driven systems
+    
+
+----------
+
+## 📌 Featured Work 
+
+-   **Enterprise CMS Architecture**  
+    Scalable CMS design with real-world publishing requirements
+    
+-   **Digital Platform Performance Optimization**  
+    Techniques for handling high traffic and content-heavy systems
+    
+-   **Engineering Playbook**  
+    Standards, workflows, and team development practices
+    
+-   **System Design Patterns for Web Platforms**  
+    Real-world architecture decisions and trade-offs
+    
+
+----------
+
+## 📈 Experience Highlights
+
+-   Led architecture and development of large-scale publishing platforms
+    
+-   Managed and mentored multiple engineering teams
+    
+-   Improved system performance and scalability across high-traffic websites
+    
+-   Delivered long-term sustainable systems aligned with business needs
+    
+
+----------
+
+## 🤝 Connect
+
+-   LinkedIn: [https://www.linkedin.com/in/ahmed-atrees](https://www.linkedin.com/in/ahmed-atrees)
+    
+-   Website: [http://ahmed.scriptstars.com/](http://ahmed.scriptstars.com/)
+    
+-   Blog: [http://moshax.com](http://moshax.com/)
+    
