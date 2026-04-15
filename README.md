@@ -105,7 +105,7 @@ My work spans full-stack development, system architecture, performance optimizat
 
 -   LinkedIn: [https://www.linkedin.com/in/ahmed-atrees](https://www.linkedin.com/in/ahmed-atrees)
     
--   Website: [https://ahmed.scriptstars.com/](https://ahmed.2ooly.com/)
+-   Website: [https://ahmed.2ooly.com/](https://ahmed.2ooly.com/)
     
 -   Blog: [http://moshax.com](https://moshax.com/)
     
